@@ -1,7 +1,7 @@
 name = "Bounty"
 description = "Sistema de recompensas por chefes com pontos LOVE."
 author = "Daniel Lucas dos Reis Silva"
-version = "1.1"
+version = "1.3"
 
 api_version = 10
 
